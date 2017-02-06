@@ -86,7 +86,7 @@ function ShoppingListCheckOffService()
     };
     service.getItems=function()
     {
-      return shoppingList2;//nothing is changed
+      return shoppingList2;
     };
   }
 
